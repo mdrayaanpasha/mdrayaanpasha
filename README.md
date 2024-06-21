@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm Rayaan, a full-stack developer passionate abou
 - **Databases:** MongoDB, MySQL
 - **Others:** Git, RESTful APIs
 
-![MERN Stack](https://www.boardinfinity.com/blog/content/images/2023/01/Mern.png)
+<img src="https://www.boardinfinity.com/blog/content/images/2023/01/Mern.png" alt="MERN Stack" width="200" height="200" style="border: 2px solid black;">
 
 ## Projects
 
