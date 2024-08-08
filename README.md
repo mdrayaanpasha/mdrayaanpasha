@@ -13,6 +13,4 @@ Want to chat about the latest tech trends or collaborate on a project? Feel free
 * ✉️ Email me: [mdrayaapasha@gmail.com](mailto:mdrayaapasha@gmail.com)
 * 👥 Connect with me on LinkedIn: [https://www.linkedin.com/in/mdrayaanpasha](https://www.linkedin.com/in/mdrayaanpasha)
 
-### Warning: Coding Challenges Ahead 🚨
 
-I may just challenge you to a coding problem or two 🤔. Don't worry, I promise not to make you implement a sorting algorithm... unless you want to, that is 😏.
