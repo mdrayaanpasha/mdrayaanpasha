@@ -8,7 +8,7 @@
 
 🤝 Always up for collaborations on cool projects, tech discussions, or a good coding joke. Let’s connect and make some tech magic together!
 
-📬 Reach me by mailing me at: mdrayaanpasha@gmail.com or on LinkedIn—I promise my response time is quicker than my latest algorithm optimization!
+📬 Reach by mailing me at: mdrayaanpasha@gmail.com or on LinkedIn—I promise my response time is quicker than my latest algorithm optimization!
 
 😄 Pronouns: He/Him
 
