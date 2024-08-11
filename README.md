@@ -2,7 +2,7 @@
 
 💻 I build websites with MERN, PHP, and more, and I’m obsessed with Data Structures and Algorithms—Graphs and Trees are my coding playground!
 
-🌱 Currently a student at St. Joseph’s University, Bengaluru, juggling my BCA studies while mastering code and debugging my way through life.
+🌱 Currently a freshman at St. Joseph’s University, Bengaluru, juggling my BCA studies while mastering code and debugging my way through life.
 
 🧠 With 2+ years of experience teaching Math and Computer Science, I can turn complex problems into clear, understandable solutions.
 
