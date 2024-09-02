@@ -4,7 +4,7 @@
 
 🌱 Currently a freshman at St. Joseph’s University, Bengaluru, juggling my BCA studies.
 
-🧠 With 2+ years of experience teaching Math and Computer Science, I can turn hard problems into clear, understandable solutions.
+🧠 With 2+ years of experience teaching Math & CS, I understand how to make hard problems into clear, understandable solutions.
 
 🤝 Always up for collaborations on cool projects, tech discussions, or a good algorithm joke. Let’s connect and make some tech magic!
 
