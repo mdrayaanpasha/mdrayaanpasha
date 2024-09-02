@@ -1,6 +1,6 @@
 👋 Yello, I’m Rayaan Pasha!
 
-💻 I make cool stuff with MERN, PHP, and more, and I Love Data Structures and Algorithms. Graphs and Trees are my jam!!!
+💻 I make cool stuff with MERN, PHP, and more, and I ❤️ Data Structures and Algorithms. Graphs and Trees are my jam!!!
 
 🌱 Currently a freshman at St. Joseph’s University, Bengaluru, juggling my BCA studies.
 
