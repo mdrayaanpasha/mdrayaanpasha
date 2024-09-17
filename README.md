@@ -1,4 +1,4 @@
-👋 Yello, I’m Rayaan Pasha!
+👋 Yello! I’m Rayaan Pasha.
 
 💻 I make cool stuff with MERN, PHP, and more, and I ❤️ Data Structures and Algorithms. Graphs and Trees are my jam!!!
 
