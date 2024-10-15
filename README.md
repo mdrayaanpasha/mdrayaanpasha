@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 👋 Yello, I'm Mohammed Rayaan Pasha.<br><br>💻 I enjoy making cool stuff with MERN if its web. Python if its algorithms. you can find some of them in the form of repos here on github.<br><br>🎱 I'm in my freshman year studying computer applications in Bengaluru.<br><br>🤝 Always up for connecting on cool projects or a good algorithm joke.<br><br>📬 Reach me by mailing me at mdrayaanpasha@gmail.com or on LinkedIn: linkedin.com/in/mdrayaanpasha.
 
 
