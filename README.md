@@ -1,6 +1,6 @@
 
 # 👋 Yello, I'm Mohammed Rayaan Pasha.
-💻 I enjoy making cool stuff with MERN if its web. Python if its algorithms. you can find some of them in the form of repos here on github.<br><br>🎱 I'm in my freshman year studying computer applications in Bengaluru.<br><br>🤝 Always up for connecting on cool projects or a good algorithm joke.<br><br>📬 Reach me by mailing me at mdrayaanpasha@gmail.com or on LinkedIn: linkedin.com/in/mdrayaanpasha.
+💻 I enjoy making cool stuff with MERN if its web. Python if its algorithms. you can find some of them in the form of repos here on github.<br><br>🎱 I'm in my 1st year studying computer applications in Bengaluru.<br><br>🤝 Always up for connecting on cool projects or a good algorithm joke.<br><br>📬 Reach me by mailing me at mdrayaanpasha@gmail.com or on LinkedIn: linkedin.com/in/mdrayaanpasha.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mdrayaanpasha) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@mdrayaanpasha) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/localhost_1000) 
