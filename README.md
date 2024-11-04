@@ -1,14 +1,15 @@
-### 👋 Yello, I'm Mohammed Rayaan Pasha.
+## 👋 Hi, I'm Mohammed Rayaan Pasha.
 
-I Building with MERN for the web, solving with Python for algorithms. 1st year Computer Applications student @ St. Joseph’s University, Bengaluru. Open to projects that matter.
+- I Build with <b>MERN</b> for <b>web</b> & solve with <b>python</b> for <b>algorithms</b>. 
+- Freshmen - Computer Applications @ SJU, Bengaluru.
+-  Open to projects that matter.
 
-### 🤝 Connect & Find Me @.
+## 🤝 Connect & Find Me On:
 
-<ul>
-  <li><a href="https://linkedin.com/in/mdrayaanpasha">LinkedIn</a></li>
-  <li><a href="https://medium.com/@mdrayaanpasha">Medium</a></li>
-  <li><a href="mailto:mdrayaanpasha@gmail.com">Mail</a></li>
-  <li><a href="https://leetcode.com/u/mdrayaanpasha">LeetCode</a></li>
+<a href="https://linkedin.com/in/mdrayaanpasha" sytle="text-decoration:none">LinkedIn</a> | 
+<a href="https://medium.com/@mdrayaanpasha">Medium</a> | 
+<a href="mailto:mdrayaanpasha@gmail.com">Mail</a> | 
+<a href="https://leetcode.com/u/mdrayaanpasha">LeetCode</a> | 
 </ul>
 
 ![](https://github.com/mdrayaanpasha/github-readme-activity-graph.cdn.jsdelivr.net/graph/?username=YOUR_USERNAME&theme=react-dark)
