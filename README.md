@@ -10,6 +10,3 @@
 <a href="https://medium.com/@mdrayaanpasha">Medium</a> | 
 <a href="mailto:mdrayaanpasha@gmail.com">Mail</a> | 
 <a href="https://leetcode.com/u/mdrayaanpasha">LeetCode</a> | 
-</ul>
-
-![](https://github.com/mdrayaanpasha/github-readme-activity-graph.cdn.jsdelivr.net/graph/?username=YOUR_USERNAME&theme=react-dark)
