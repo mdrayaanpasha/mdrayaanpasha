@@ -11,4 +11,4 @@ I Building with MERN for the web, solving with Python for algorithms. 1st year C
   <li><a href="https://leetcode.com/u/mdrayaanpasha">LeetCode</a></li>
 </ul>
 
-![](https://github.com/YOUR_USERNAME/github-readme-activity-graph.cdn.jsdelivr.net/graph/?username=YOUR_USERNAME&theme=react-dark)
+![](https://github.com/mdrayaanpasha/github-readme-activity-graph.cdn.jsdelivr.net/graph/?username=YOUR_USERNAME&theme=react-dark)
