@@ -1,12 +1,11 @@
-## 👋 Hi, I'm Mohammed Rayaan Pasha.
 
-- I Build with <b>MERN</b> for <b>web</b> & solve with <b>python</b> for <b>algorithms</b>. 
-- Freshmen - Computer Applications @ SJU, Bengaluru.
--  Open to projects that matter.
+<h2 align="center"><samp>Hi 👋 I'm Mohammed Rayaan Pasha</samp></h2>
+<h3 align="center"><samp>Building with MERN for web, and python for algorithms.</samp> </h3>
 
-## 🤝 Connect & Find Me On:
 
-<a href="https://linkedin.com/in/mdrayaanpasha" sytle="text-decoration:none">LinkedIn</a> | 
-<a href="https://medium.com/@mdrayaanpasha">Medium</a> | 
-<a href="mailto:mdrayaanpasha@gmail.com">Mail</a> | 
-<a href="https://leetcode.com/u/mdrayaanpasha">LeetCode</a> | 
+<div style="display:flex;align-items:center;justify-content:center;">
+<img src="./cover.gif">
+
+</div>
+
+
