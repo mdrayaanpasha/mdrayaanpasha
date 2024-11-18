@@ -4,9 +4,9 @@
 </div>
 <div align="center">
   <samp>
-  <h4>• Building with MERN for web & python for algorithms.</h4>
-  <h4>• Freshmen - Computer Applications @ SJU, Bengaluru.</h4>
-  <h4>• Open to building impactful and meaningful projects.</h4>
+  <h3>• Building with MERN for web & python for algorithms.</h3>
+  <h3>• Freshmen - Computer Applications @ SJU, Bengaluru.</h3>
+  <h3>• Open to building impactful and meaningful projects.</h3>
   </samp> <br>
   <samp><h2>Connect & find me on: </h2></samp>
   <a href="https://linkedin.com/in/mdrayaanpasha" sytle="text-decoration:none">LinkedIn</a> | 
