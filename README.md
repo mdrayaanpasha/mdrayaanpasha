@@ -1,11 +1,6 @@
+<h2 align="center"><samp>Hi 👋, I'm Mohammed Rayaan Pasha</samp></h2>
+<h3 align="center"><samp>Crafting with MERN & Python.</samp></h3>
 
-<h2 align="center"><samp>Hi 👋 I'm Mohammed Rayaan Pasha</samp></h2>
-<h3 align="center"><samp>Building with MERN for web, and python for algorithms.</samp> </h3>
-
-
-<div style="display:flex;align-items:center;justify-content:center;">
-<img src="./cover.gif">
-
+<div align="center">
+  <img src="./cover.gif" style="height:30vh;">
 </div>
-
-
