@@ -1,7 +1,5 @@
 <h2 align="center"><samp>👋 Hi, I'm Mohammed Rayaan Pasha</samp></h2><br>
-<div align="center">
-<img src="./cover.gif" style="height:50vh; width:90vw; border-radius:50px !important; object-fit:cover; ">
-</div>
+
 <div align="center">
   <samp>
   <h3>• Building with MERN for web & python for algorithms.</h3>
