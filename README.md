@@ -5,7 +5,7 @@
   <h3>• Writing code, breaking code, then pretending it was intentional.</h3>
   <h3>• Computer Applications @ SJU, Bengaluru.</h3>
   <h3>• MERN for web, C/Python for algorithms, and caffeine for survival.</h3>
-  <h3>• Building cool stuff, not boring CRUD apps. AI, system design, algo chaos? Now we’re talking.</h3>
+  <h3>• Connect to build cool stuff, not boring CRUD apps. AI, system design, algo chaos? Now we’re talking.</h3>
   <h3>• LeetCode is a daily ritual. Segfaults are my spirit animal.</h3>
   </samp> <br>
   
