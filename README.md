@@ -6,7 +6,6 @@
   <h3>• Computer Applications @ SJU, Bengaluru.</h3>
   <h3>• MERN for web, C/Python for algorithms, and caffeine for survival.</h3>
   <h3>• Connect to build cool stuff, not boring CRUD apps. AI, system design, algo chaos? Now we’re talking.</h3>
-  <h3>• LeetCode is a daily ritual. Segfaults are my spirit animal.</h3>
   </samp> <br>
   
   <samp><h2>📌 Where to find me (other than in an existential crisis over a bug): </h2></samp>
