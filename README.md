@@ -1,6 +1,6 @@
 <h2 align="center"><samp>👋 Yo, I'm Mohammed Rayaan Pasha</samp></h2><br>
 
-<div align="center">
+<div>
   <samp>
   <h3>• Writing code, breaking code, then pretending it was intentional.</h3>
   <h3>• Freshmen - Computer Applications @ SJU, Bengaluru.</h3>
