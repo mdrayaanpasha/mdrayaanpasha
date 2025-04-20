@@ -9,9 +9,10 @@
   </samp> <br>
   
   <samp><h2>📌 Where to find me (other than in an existential crisis over a bug): </h2></samp>
+  <center>
   <a href="https://linkedin.com/in/mdrayaanpasha" style="text-decoration:none">LinkedIn</a> | 
   <a href="https://medium.com/@mdrayaanpasha">Medium</a> | 
   <a href="mailto:mdrayaanpasha@gmail.com">Mail</a> | 
   <a href="https://leetcode.com/u/mdrayaanpasha">LeetCode</a> | 
-
+</center>
 </div>
