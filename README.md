@@ -1,18 +1,5 @@
-<h2 align="center"><samp>👋 Yo, I'm Mohammed Rayaan Pasha</samp></h2><br>
+# ¬_¬ building stuff with code
 
-<div>
-  <samp>
-  <h3>• Writing code, breaking code, then pretending it was intentional.</h3>
-  <h3>• Freshmen - Computer Applications @ SJU, Bengaluru.</h3>
-  <h3>• MERN for web, C/Python for algorithms, and caffeine for survival.</h3>
-  <h3>• Connect to build cool stuff, not boring CRUD apps. AI, system design, algo chaos? Now we’re talking.</h3>
-  </samp> <br>
-  
-  <samp><h2>📌 Where to find me (other than in an existential crisis over a bug): </h2></samp>
-  <center>
-  <a href="https://linkedin.com/in/mdrayaanpasha" style="text-decoration:none">LinkedIn</a> | 
-  <a href="https://medium.com/@mdrayaanpasha">Medium</a> | 
-  <a href="mailto:mdrayaanpasha@gmail.com">Mail</a> | 
-  <a href="https://leetcode.com/u/mdrayaanpasha">LeetCode</a> | 
-</center>
-</div>
+- ⚒️ intern @ gauge.ro  
+- 🏫 pursuing BCA @ SJU blr.  
+- 🌲love algorithms, system design & making things work better.
