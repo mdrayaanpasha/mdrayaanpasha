@@ -14,6 +14,16 @@
 
 ---
 
+## 📜 Resume & Contact
+
+<p align="center">
+  <a href="https://your-link-to-resume.com"><img src="https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=adobeacrobat&logoColor=white"/></a>
+  <a href="mailto:mdrayaanpasha@gmail.com"><img src="https://img.shields.io/badge/Email-Send%20Mail-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/mdrayaanpasha"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://rayaanpasha.dev"><img src="https://img.shields.io/badge/Portfolio-View-ff69b4?style=for-the-badge&logo=about.me&logoColor=white"/></a>
+</p>
+
+
 ## 💼 About Me
 
 I’m a software engineer with a passion for **AI, distributed systems, and scalable full-stack architectures**.  
@@ -61,14 +71,6 @@ Outside of code, you might find me **BINGE WATCHING SITCOMS!!!**, or watching **
 
 ---
 
-## 📜 Resume & Contact
-
-<p align="center">
-  <a href="https://your-link-to-resume.com"><img src="https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=adobeacrobat&logoColor=white"/></a>
-  <a href="mailto:mdrayaanpasha@gmail.com"><img src="https://img.shields.io/badge/Email-Send%20Mail-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/mdrayaanpasha"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://rayaanpasha.dev"><img src="https://img.shields.io/badge/Portfolio-View-ff69b4?style=for-the-badge&logo=about.me&logoColor=white"/></a>
-</p>
 
 > Open to freelance, collaborations, and full-time opportunities in AI, distributed systems, or full-stack development.
 
