@@ -17,10 +17,10 @@
 ## 📜 Resume & Contact
 
 <p align="center">
-  <a href="https://your-link-to-resume.com"><img src="https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=adobeacrobat&logoColor=white"/></a>
+  <a href="https://drive.google.com/file/d/1r257MoPJZ-wTnGLoA2v1aOFRTGZVKyMS/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=adobeacrobat&logoColor=white"/></a>
   <a href="mailto:mdrayaanpasha@gmail.com"><img src="https://img.shields.io/badge/Email-Send%20Mail-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/mdrayaanpasha"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://rayaanpasha.dev"><img src="https://img.shields.io/badge/Portfolio-View-ff69b4?style=for-the-badge&logo=about.me&logoColor=white"/></a>
+  <a href="https://rayaanpasha.vercel.app"><img src="https://img.shields.io/badge/Portfolio-View-ff69b4?style=for-the-badge&logo=about.me&logoColor=white"/></a>
 </p>
 
 
