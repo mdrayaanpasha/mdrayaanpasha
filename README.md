@@ -17,7 +17,7 @@
 ## 📜 Resume & Contact
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/19WTlZ0dz4bZdF_dVQ35qaZ41f384nM9q/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=adobeacrobat&logoColor=white"/></a>
+  <a href="https://drive.google.com/file/d/1HzaDMUrMIv_X_ffDYXj2j_F5iAnY43Q1/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=adobeacrobat&logoColor=white"/></a>
   <a href="mailto:mdrayaanpasha@gmail.com"><img src="https://img.shields.io/badge/Email-Send%20Mail-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/mdrayaanpasha"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://rayaanpasha.vercel.app"><img src="https://img.shields.io/badge/Portfolio-View-ff69b4?style=for-the-badge&logo=about.me&logoColor=white"/></a>
