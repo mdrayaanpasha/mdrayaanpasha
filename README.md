@@ -36,7 +36,7 @@ Outside of code, you might find me **BINGE WATCHING SITCOMS!!!**, or watching **
 ## 🚀 Featured Project
 
 ### [Quantiva 2.0](https://github.com/mdrayaanpasha/quantiva_2.0)  
-**Distributed AI-Driven Portfolio Analysis System**
+**Distributed AI Driven Portfolio Analysis System**
 
 <p align="center">
   <a href="https://github.com/mdrayaanpasha/quantiva_2.0">
